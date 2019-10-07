@@ -1,2 +1,3 @@
-# ThreadDemo
-ThreadDemo
+#线程与并发学习demo
+##### 这是一个有关线程学习与并发知识的小demo库
+
