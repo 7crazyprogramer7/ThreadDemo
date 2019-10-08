@@ -1,4 +1,4 @@
-package demo_one;
+package firstdemo;
 
 import javafx.application.Application;
 import javafx.application.Platform;

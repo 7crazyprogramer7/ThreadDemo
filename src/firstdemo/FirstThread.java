@@ -1,4 +1,5 @@
-package demo_one;
+package firstdemo;
+
 
 public class FirstThread {
     public static void main(String[] args){
@@ -9,11 +10,8 @@ public class FirstThread {
         Thread thread2 = new Thread(runnable2);
 
         thread1.start();
-        for (int i =1;i<=100;i++){
-            System.out.println("b");
-        }
         thread2.start();
-        thread2.setPriority(Thread.MAX_PRIORITY);
+
 
     }
 
